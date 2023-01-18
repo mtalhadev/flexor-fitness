@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657622851504",
+    "project_id": "flexor-18650",
+    "storage_bucket": "flexor-18650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657622851504:android:7c32097abbddfbdc794075",
+        "android_client_info": {
+          "package_name": "com.flexor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657622851504-iafli61uufdfo1bugcbmhhjckpguhv02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEdQ7wIEW5UJq7SwRxQ0fbpzOix56nsk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657622851504-iafli61uufdfo1bugcbmhhjckpguhv02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
